@@ -1,0 +1,5 @@
+
+{
+  "name": "AI Plant Identifier",
+  "description": "An intelligent web application that uses a powerful multimodal AI model to identify plants from an uploaded image. The app provides the plant's common name, scientific name, and details about its common uses."
+}
